@@ -1,0 +1,10 @@
+{
+  "experiment": "e3",
+  "date": "2026-03-20T04:29:24.549161",
+  "results": {
+    "single_rate": 0.7,
+    "multi_rate": 0.55,
+    "single_n": 100,
+    "multi_n": 100
+  }
+}

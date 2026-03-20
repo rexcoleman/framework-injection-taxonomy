@@ -60,7 +60,7 @@
 
 | ID | Statement (short) | Prediction | Status |
 |----|-------------------|-----------|--------|
-| H-1 | Frameworks add attack surface | ≥20pp over direct API | PENDING |
-| H-2 | Frameworks differ by ≥20pp | max - min ≥ 20pp | PENDING |
-| H-3 | Indirect > direct injection | ≥15pp difference | PENDING |
-| H-4 | Multi-agent more vulnerable | CrewAI > LangChain ≥15pp | PENDING |
+| H-1 | Frameworks add attack surface | ≥20pp over direct API | PARTIALLY SUPPORTED (LangChain +3pp only) |
+| H-2 | Frameworks differ by ≥20pp | max - min ≥ 20pp | NOT SUPPORTED (13pp range) |
+| H-3 | Indirect > direct injection | ≥15pp difference | FRAMEWORK-DEPENDENT (CrewAI +40pp, Direct API -60pp) |
+| H-4 | Multi-agent more vulnerable | CrewAI > LangChain ≥15pp | NOT SUPPORTED (reversed: -15pp) |

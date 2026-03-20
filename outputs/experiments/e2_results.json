@@ -1,0 +1,30 @@
+{
+  "experiment": "e2",
+  "date": "2026-03-20T04:25:49.127337",
+  "results": {
+    "langchain": {
+      "direct_rate": 0.8,
+      "indirect_rate": 0.8,
+      "direct_n": 25,
+      "indirect_n": 25
+    },
+    "crewai": {
+      "direct_rate": 0.4,
+      "indirect_rate": 0.8,
+      "direct_n": 25,
+      "indirect_n": 25
+    },
+    "autogen": {
+      "direct_rate": 0.6,
+      "indirect_rate": 0.4,
+      "direct_n": 25,
+      "indirect_n": 25
+    },
+    "direct_api": {
+      "direct_rate": 0.8,
+      "indirect_rate": 0.2,
+      "direct_n": 25,
+      "indirect_n": 25
+    }
+  }
+}
