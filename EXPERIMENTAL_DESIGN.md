@@ -3,7 +3,7 @@
 > **Gate:** 0 (must pass before Phase 1 compute)
 > **Date:** 2026-03-20
 > **Target venue:** DEF CON AI Village / BSides [HYPOTHESIZED]
-> **lock_commit:** TBD
+> **lock_commit: `3ea3f31`
 > **Profile:** contract-track
 > **Budget:** ~$3-5 Claude API (Haiku)
 
