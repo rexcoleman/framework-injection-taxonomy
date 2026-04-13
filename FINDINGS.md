@@ -1,3 +1,13 @@
+---
+fp: "FP-21"
+title: "Prompt Injection Taxonomy Across Agent Frameworks"
+quality_score: 8.0
+last_scored: "2026-03-20"
+status: "COMPLETE"
+audience_side: "of-ai"
+sharing_tier: "1_publish"
+---
+
 # FINDINGS — FP-21: Prompt Injection Taxonomy Across Agent Frameworks
 
 > **Project:** FP-21
